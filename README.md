@@ -1,6 +1,7 @@
-# Pytubefix with no async features
-The recent async feature additions to pytubefix made the library heavy because of the ton of dependencies. <br/>
-Here, we propose you a maintained version of pytubefix with the removal of these async features. <br/>
+# Unbloated pytubefix
+A version of pytubefix with less "bloat" (async features or PO tokens for example). <br/>
+It enables developers to bundle the latest patches of pytubefix within their project, without tons of dependencies. <br/>
+This modified version of pytubefix only keeps the main essential features. <br/>
 **Original pytubefix repo**: https://github.com/JuanBindez/pytubefix.
 
 # 📦 Requirements
